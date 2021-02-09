@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PintorMerinoo/static/css/main.8b4d56c5.chunk.css",
+    "main.js": "/PintorMerinoo/static/js/main.47370756.chunk.js",
+    "main.js.map": "/PintorMerinoo/static/js/main.47370756.chunk.js.map",
+    "runtime-main.js": "/PintorMerinoo/static/js/runtime-main.b3b4ef27.js",
+    "runtime-main.js.map": "/PintorMerinoo/static/js/runtime-main.b3b4ef27.js.map",
+    "static/js/2.9700d8bd.chunk.js": "/PintorMerinoo/static/js/2.9700d8bd.chunk.js",
+    "static/js/2.9700d8bd.chunk.js.map": "/PintorMerinoo/static/js/2.9700d8bd.chunk.js.map",
+    "index.html": "/PintorMerinoo/index.html",
+    "precache-manifest.277f4a6f75ac3bd6570b9243caedfb3f.js": "/PintorMerinoo/precache-manifest.277f4a6f75ac3bd6570b9243caedfb3f.js",
+    "service-worker.js": "/PintorMerinoo/service-worker.js",
+    "static/css/main.8b4d56c5.chunk.css.map": "/PintorMerinoo/static/css/main.8b4d56c5.chunk.css.map",
+    "static/js/2.9700d8bd.chunk.js.LICENSE.txt": "/PintorMerinoo/static/js/2.9700d8bd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3b4ef27.js",
+    "static/js/2.9700d8bd.chunk.js",
+    "static/css/main.8b4d56c5.chunk.css",
+    "static/js/main.47370756.chunk.js"
+  ]
+}

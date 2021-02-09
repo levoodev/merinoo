@@ -1,0 +1,82 @@
+.Home {
+  /* margin: 10px; */
+  max-width: 800px;
+	padding: 10px;
+    /* background: linear-gradient(90deg, rgb(252, 0, 0) 0%, rgb(26, 23, 23) 100%); */
+    background: white;
+    margin-left: auto;
+    margin-right: auto;
+    display: grid;
+    grid-gap: 20px; /* Margen entre cada grid (Sin parte externa)*/
+    grid-template-columns: repeat(2, 1fr); 
+    grid-template-rows: repeat(2, auto);
+
+    grid-template-areas:
+    "Carrousel Carrousel" 
+    "img img-2";
+    
+  }
+
+
+.Home .img,
+.Home .img-2,
+.Home .img-3,
+.Home .img-4 {
+  /* color: #ecf0f1; */
+	background: white;
+	padding: 20px;
+	border-radius: 4px;
+}
+
+
+
+
+.Home .Carrousel{
+  grid-area: Carrousel;
+  text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.Home .img {
+  grid-area: img ;
+  text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.Home .img-2 {
+  grid-area: img-2 ;
+  text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.Home .img-3 {
+  grid-area: img-3 ;
+  text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.Home .img-4 {
+  grid-area: img-4 ;
+  text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+} 
+
+.contorno {
+  padding: 5px; 
+  border: 10px solid rgb(27, 25, 25);
+} 
+
+@media screen and (max-width: 960px){
+	.Home {
+    grid-template-areas: 
+    "Carrousel Carrousel" 
+    "img img-2" 
+    "img-3 img-4"
+  }
+}

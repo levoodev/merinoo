@@ -1,0 +1,29 @@
+.Curriculum {
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;   
+    /* background-color: blue; */
+    padding: 20px;
+    
+  }
+
+  .Parrafo{
+    text-align: justify;
+	-webkit-hyphens: auto; /* A día de hoy aún es necesario el prefijo para soportar a Safari */
+	hyphens: auto;
+    color: black;
+    font: condensed 120% sans-serif;
+   
+
+
+  }
+
+  .Incisos li{
+
+    font: condensed 120% sans-serif;
+    margin-left: 5%;
+
+  }
+
+
+  

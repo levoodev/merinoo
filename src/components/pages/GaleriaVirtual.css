@@ -1,0 +1,42 @@
+.GaleriaVirtual {
+    /* background: linear-gradient(90deg, rgb(250, 248, 248) 0%, rgb(26, 23, 23) 100%); */
+    background:white;
+    max-width: 400px;
+    height: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+
+.GaleriaVirtual h1 {
+   
+    color: #000000;
+    text-align: center;
+    margin-top: 40px;
+    
+    
+}
+.GaleriaVirtual .Recuadros {
+   
+    max-width: 400px;
+    height: 50px;
+    background: #8f0707;
+    color: white;
+    padding: 5px; 
+    /* border: 1px solid rgb(27, 25, 25); */
+    margin-top: 50px;
+    text-align: center;
+	display: flex;
+	align-items: center;
+    justify-content: center;
+    border-radius: 9px;
+    
+    
+}
+
+.GaleriaVirtual a{
+    color: white;
+}
+
+

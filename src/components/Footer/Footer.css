@@ -1,0 +1,60 @@
+.Footer {
+    /* background: linear-gradient(90deg, rgb(250, 248, 248) 0%, rgb(26, 23, 23) 100%); */
+    background: white;
+    display: grid;
+    grid-template-columns: 30% 40% 30%;
+    height: 100px;
+    
+  }
+
+ .Footer .box {
+   padding: 1opx; 
+   /* text-align: center;   */
+   
+   text-align: center;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+} 
+
+ .Footer .logo {
+    /* background-color: black; */
+    padding: 1opx; 
+    text-align: center;
+	  display: flex;
+	  align-items: center;
+	  justify-content: center;
+   
+} 
+
+.Footer .center {
+  
+  padding: 1opx; 
+  text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+} 
+
+
+
+.Footer h1{
+   color: rgb(0, 0, 0);
+   font-family: 'Big Shoulders Display', cursive;
+   font-size: 220%;
+   
+ }
+
+ .Footer img{
+  align-items: center;
+  padding: 2px;
+  }
+
+ .Footer p{
+  font-size: 80%;
+  color: rgb(0, 0, 0);
+  margin-left: 6px;
+}
+
+
+
