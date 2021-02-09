@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/merinoo/static/css/main.8b4d56c5.chunk.css",
+    "main.js": "/merinoo/static/js/main.2b9d56c9.chunk.js",
+    "main.js.map": "/merinoo/static/js/main.2b9d56c9.chunk.js.map",
+    "runtime-main.js": "/merinoo/static/js/runtime-main.7990162b.js",
+    "runtime-main.js.map": "/merinoo/static/js/runtime-main.7990162b.js.map",
+    "static/js/2.78005328.chunk.js": "/merinoo/static/js/2.78005328.chunk.js",
+    "static/js/2.78005328.chunk.js.map": "/merinoo/static/js/2.78005328.chunk.js.map",
+    "index.html": "/merinoo/index.html",
+    "precache-manifest.77075dcf7830d393edc37cc8da0983f2.js": "/merinoo/precache-manifest.77075dcf7830d393edc37cc8da0983f2.js",
+    "service-worker.js": "/merinoo/service-worker.js",
+    "static/css/main.8b4d56c5.chunk.css.map": "/merinoo/static/css/main.8b4d56c5.chunk.css.map",
+    "static/js/2.78005328.chunk.js.LICENSE.txt": "/merinoo/static/js/2.78005328.chunk.js.LICENSE.txt",
+    "static/media/Ellos.jpg": "/merinoo/static/media/Ellos.085040fb.jpg",
+    "static/media/Izquierda.jpg": "/merinoo/static/media/Izquierda.6e946e0b.jpg",
+    "static/media/banner1.jpg": "/merinoo/static/media/banner1.cc8b3beb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7990162b.js",
+    "static/js/2.78005328.chunk.js",
+    "static/css/main.8b4d56c5.chunk.css",
+    "static/js/main.2b9d56c9.chunk.js"
+  ]
+}
